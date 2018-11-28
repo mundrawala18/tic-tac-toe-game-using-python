@@ -1,4 +1,4 @@
-# tic-tac-toe-game-using-python
+# TicTacToe python
 This game is create using python 3.x . 
 It is single player game,opponent is computer.
 Python GUI library 'tkinter' use.
